@@ -204,7 +204,7 @@ const Hero = () => {
               </button>
               <button
                 onClick={() => {
-                  downloadFile(result.mp3, "audio.mp3");
+                  downloadFile(result.music, "audio.mp3");
                 }}
                 className="btn btn-info text-white tracking-widest font-poppins"
               >
