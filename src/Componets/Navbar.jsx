@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="flex-1">
         <a href="#" className="btn btn-ghost text-xl font-extrabold">
           <TbBrandTiktokFilled size={35} />
-          DOWNTIK
+          LUJEN
         </a>
       </div>
       <div className="flex-none gap-2">
